@@ -1,16 +1,16 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
+  hiromisugie:
+    image_url: /images/actors/hiromisugie.png
+    name: hiromisugie
+    url: https://twitter.com/hiromisugie
   bob:
     image_url: /images/actors/bob.png
     name: bob
     url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+author: hiromisugie
+description: 説明文サンプル
+description_long: 説明文の長文サンプル
+email: contact@marklab.co.jp
 exclude:
   - docker
   - docker-compose.yml
@@ -20,14 +20,14 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: meands
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: design,web design,sample,sample,sample
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
+title: meands.fm
 url: http://example.com
